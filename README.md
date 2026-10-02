@@ -46,6 +46,7 @@ The 2024 ECO is the live outline for PHR through 2026 — HRCI hasn't issued a n
 - 📄 [Cheat Sheet](https://edureify.com/certification/human-resources/phr/cheat-sheet)
 - 📖 [Study Guide](https://edureify.com/certification/human-resources/phr/study-guide)
 - 🏠 [Exam Landing Page](https://edureify.com/certification/human-resources/phr/landing)
+- 🏠 [BEST PHR APP](https://edureify.com/certification/human-resources/phr/app)
 
 ## Reference Material
 
